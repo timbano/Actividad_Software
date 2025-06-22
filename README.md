@@ -15,4 +15,4 @@ Este proyecto fue creado para aplicar conocimientos de Git y GitHub, incluyendo 
 - Python
 - Git
 - GitHub
-- Hola mundo
+
